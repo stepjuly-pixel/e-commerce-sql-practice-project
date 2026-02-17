@@ -22,7 +22,7 @@ All queries are written in BigQuery SQL.
 
 ## Database Schema
 
-![database_connections1_4dea495902](https://github.com/user-attachments/assets/9bd2531e-17da-4962-ab3a-849590d81a67)
+![database_connections1](schema.png)
 
 ### The database includes:
 
