@@ -28,23 +28,23 @@ All queries are written in BigQuery SQL.
 
 Core transactional tables
 
-- order
+- `order`
 
-- product
+- `product`
 
 Session & event data
   
-- session
+- `session`
 
-- session_params
+- `session_params`
 
-- event_params
+- `event_params`
 
 Marketing & forecasting
 
-- paid_search_cost
+- `paid_search_cost`
 
-- revenue_predict
+- `revenue_predict`
 
 ## Query 1 – Revenue by Continent
 [Query 1 – Revenue by Continent](query1.sql)
