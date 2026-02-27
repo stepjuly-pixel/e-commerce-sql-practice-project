@@ -139,3 +139,21 @@ Calculate cumulative actual revenue vs cumulative predicted revenue by date and 
 2. Each query is independent and can be executed separately.
 
 3. The schema image should be uploaded to the repository root (e.g., schema.png) and referenced in this README.
+
+## Project Structure
+
+```
+e-commerce-sql-practice-project/
+
+  README.md
+
+  query1.sql
+
+  query2.sql
+
+  query3.sql
+
+  query4.sql
+
+  schema.png
+```
