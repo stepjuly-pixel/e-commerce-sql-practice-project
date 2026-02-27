@@ -146,14 +146,9 @@ Calculate cumulative actual revenue vs cumulative predicted revenue by date and 
 e-commerce-sql-practice-project/
 
   README.md
-
   query1.sql
-
   query2.sql
-
   query3.sql
-
   query4.sql
-
   schema.png
 ```
